@@ -74,7 +74,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 76,Minimum Window Substring,34.6%,Hard,0.33651688545811814, https://leetcode.com/problems/minimum-window-substring
 895,Maximum Frequency Stack,60.6%,Hard,0.33520721431462625, https://leetcode.com/problems/maximum-frequency-stack
 165,Compare Version Numbers,27.4%,Medium,0.33499311472223486, https://leetcode.com/problems/compare-version-numbers
-53,Maximum Subarray,46.5%,Easy,0.33316614062015326, https://leetcode.com/problems/maximum-subarray
+53,Maximum Subarray,46.5%,Medium,0.33316614062015326, https://leetcode.com/problems/maximum-subarray
 490,The Maze,51.4%,Medium,0.33239571796243805, https://leetcode.com/problems/the-maze
 20,Valid Parentheses,39.0%,Easy,0.32875969157833257, https://leetcode.com/problems/valid-parentheses
 721,Accounts Merge,48.8%,Medium,0.3264810496971675, https://leetcode.com/problems/accounts-merge
